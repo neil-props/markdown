@@ -11,8 +11,7 @@
 
 
 ```mermaid
-    Flowchart 
-        one --> two
-        
+    flowchart 
+        one --> two  
 
 ```
