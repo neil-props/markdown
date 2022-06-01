@@ -8,3 +8,11 @@
 
 <!-- StrikeThrough -->
 ~~ this had been removed ~ ~ has been strikethrough
+
+
+```mermaid
+    Flowchart 
+        one --> two
+        
+
+```
